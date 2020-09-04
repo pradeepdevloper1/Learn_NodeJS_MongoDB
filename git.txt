@@ -1,0 +1,7 @@
+echo "# Learn_NodeJS_MongoDB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin1126 https://github.com/pradeepdevloper1/Learn_NodeJS_MongoDB.git
+git push -u origin1126  master
